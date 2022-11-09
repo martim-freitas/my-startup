@@ -1,0 +1,22 @@
+.banner {
+	background-image: linear-gradient(-225deg, rgb(0 0 0 / 60%) 0%, rgba(0, 0, 0, 0.6) 100% ), url(../../images/banner-cidade.jpg);
+	color: white;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h1 {
+	font-size: 40px;
+	color: #fff5c7;
+	font-family: Dancing Script, cursive;
+}
+
+.banner h2 {
+	font-size: 30px;
+	font-weight: stronger;
+	color: #d2c8ff;
+	font-family: Domine, serif;
+
+}
+

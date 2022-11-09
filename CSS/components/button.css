@@ -1,0 +1,14 @@
+.btn-line {
+	text-decoration: none;
+	transition: background-color 0.4s ease;
+	color: #fff5c7;
+	padding: 1.5px 5px;
+	font-weight: bold;
+	background-color: rgba(210, 200, 255, .4);
+	border-radius: 4px;
+	margin: 50px auto;
+}
+
+.btn-line:hover {
+	background-color: rgba(150, 150, 150, .5);
+}

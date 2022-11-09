@@ -1,0 +1,18 @@
+.container {
+	width: 900px;
+	margin: 80px auto;
+	padding-bottom: 10px;	
+}
+
+@media (max-width: 700px) {
+	.container {
+		width: auto;
+	}
+}
+
+.container p {
+	font-family: Domine, serif;
+	font-size: 20px;
+	padding-bottom: 20px;
+	color: rgb(0, 0, 0);
+}
